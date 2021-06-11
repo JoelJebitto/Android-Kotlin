@@ -19,8 +19,6 @@
 ![img_2.png](Image/img_2.png)
 
 #
-#
-#
 
 ### Subtraction
 
@@ -33,8 +31,6 @@
 ![img_4.png](Image/img_4.png)
 
 #
-#
-#
 
 ### Multiplication
 ##
@@ -45,8 +41,6 @@
 #### Answer
 ![img_6.png](Image/img_6.png)
 
-#
-#
 #
 
 ### division
