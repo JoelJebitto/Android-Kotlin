@@ -2,8 +2,8 @@
 #
 ## This App Minutes Made Using
 
-![Image1](https://raw.githubusercontent.com/JoeJebitto/Age-In-Minutes-Kotlin-Android/main/Image/Image3.png)
-![Image2](https://raw.githubusercontent.com/JoeJebitto/Age-In-Minutes-Kotlin-Android/main/Image/Image4.png)
+![Image1](https://raw.githubusercontent.com/JoeJebitto/Android-Kotlin/main/Image/Image3.png)
+![Image2](https://raw.githubusercontent.com/JoeJebitto/Android-Kotlin/main/Image/Image4.png)
 
 ## Output Of the App
 
